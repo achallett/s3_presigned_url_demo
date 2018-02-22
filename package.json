@@ -10,7 +10,8 @@
   "dependencies": {
     "aws-sdk": "2.188.0",
     "cors": "2.8.4",
-    "dotenv": "5.0.0"
+    "dotenv": "5.0.0",
+    "express": "4.16.2"
   },
   "devDependencies": {},
   "description": ""
